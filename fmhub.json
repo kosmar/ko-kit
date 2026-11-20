@@ -1,0 +1,10 @@
+{
+  "what": "KO KIT is not a genre pack: sixteen drum voices, eleven performance pads, groove plates across kit eras, its own sequencer and store—standalone Dinghy firmware beside the KO line.",
+  "author": "kosmar",
+  "kinds": [
+    "drums"
+  ],
+  "play": "https://kosmar.github.io/ko-fm1/?app=deck",
+  "image": "docs/card.png",
+  "color": "#657a76"
+}
